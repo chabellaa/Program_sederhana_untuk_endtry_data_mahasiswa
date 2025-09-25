@@ -8,13 +8,13 @@
 
 ---
 
-## 📌 Deskripsi Program
+## Deskripsi Program
 Program ini dibuat untuk melakukan **entry data mahasiswa** minimal 10 data, kemudian dapat melakukan **pencarian data mahasiswa** berdasarkan **NIM** atau **Nama**.  
 Jika data ditemukan, maka akan ditampilkan detail mahasiswa berupa NIM, Nama, Prodi, dan Angkatan.  
 
 ---
 
-## 🛠️ Fitur Program
+## Fitur Program
 1. Input data mahasiswa minimal 10 orang.  
 2. Simpan data ke dalam list.  
 3. Cari data mahasiswa berdasarkan NIM atau Nama.  
@@ -23,7 +23,7 @@ Jika data ditemukan, maka akan ditampilkan detail mahasiswa berupa NIM, Nama, Pr
 
 ---
 
-## ▶️ Cara Menjalankan Program (Dart)
+## Cara Menjalankan Program (Dart)
 1. Pastikan sudah menginstall **Dart SDK** di komputer.  
    - Cek dengan perintah:  
      ```bash
