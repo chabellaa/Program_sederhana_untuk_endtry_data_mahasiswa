@@ -1,6 +1,6 @@
 # Program Sederhana untuk Entry Data Mahasiswa
 
-## 👤 Identitas
+## Identitas
 - **Nama Mahasiswa** : Nurul Zikra Salzabilah
 - **NPM**            : 07352311170
 - **Kelas**          : 5IF1
